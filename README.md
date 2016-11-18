@@ -1,1 +1,1 @@
-# TestCompleteCalculator
+# Automation Smoke testing for Win 10 calculator 
